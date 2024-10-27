@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+.color-picker{
+    border: 2px solid black;
+    padding: 50px;
+    width: 150px;
+    text-align: center;
+    align-items: center;
+    margin-left: 630px;
+}
+.name{
+    margin-left: 690px;
+}
