@@ -8,6 +8,7 @@ h1{
     text-align: center;
     align-items: center;
     margin-left: 630px;
+    border-radius: 15px;
 }
 .name{
     margin-left: 690px;
